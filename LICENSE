@@ -1,0 +1,25 @@
+Halo Slayer Evolved - Licence
+
+Copyright (c) 2026 The Halo Slayer Evolved team. All rights reserved.
+
+This licence covers the original code and files of Halo Slayer Evolved ("HSE"):
+its scripts, its native library (hse_hook.dll), its installer and updater.
+It does not cover Halo game content (see NOTICE) or third-party software
+(see THIRD-PARTY-NOTICES).
+
+You MAY:
+  - download HSE free of charge from its official pages (this repository and
+    its Nexus Mods page);
+  - install and play it with a legally owned copy of Halo: Campaign Evolved;
+  - make videos, streams and screenshots of it.
+
+You MAY NOT, without written permission from the HSE team:
+  - re-upload, mirror or redistribute HSE, in whole or in part, anywhere else;
+  - sell HSE, charge for access to it, or bundle it with anything that is sold;
+  - distribute modified versions of HSE or work derived from its code.
+
+HSE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE HSE TEAM BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING LOSS OF GAME DATA OR SAVES,
+ARISING FROM, OUT OF OR IN CONNECTION WITH HSE OR ITS USE.
